@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Riddhi Khandelwal</h1>
+
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  Building projects, solving problems, and learning something new every day 🚀
+</p>
 
 <!--
 **Riddhi-Khandelwal01/Riddhi-Khandelwal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
