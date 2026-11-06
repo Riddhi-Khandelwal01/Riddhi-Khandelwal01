@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Riddhi Khandelwal</h1>
-
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<!-- ==================== HERO SECTION ==================== -->
+<h1 align="center">Hi, I'm Riddhi Khandelwal👋</h1>
 
 <p align="center">
-  Building projects, solving problems, and learning something new every day 🚀
+  <b>Computer Science Student • Aspiring Software Developer</b>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Building+meaningful+projects+%F0%9F%9A%80;Learning+and+solving+every+day+%F0%9F%92%BB;Exploring+Full+Stack+Development+and+AI+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Currently learning <b>DSA, Full Stack Development & AI</b>
+</p>
 <!--
 **Riddhi-Khandelwal01/Riddhi-Khandelwal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
