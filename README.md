@@ -29,14 +29,14 @@
 
 <!-- DASHBOARD_START -->
 
-## Developer Dashboard
+## 💻 Developer Dashboard
 
-| Theme | Current Status |
+| 🔹 | Current Status |
 |---|---|
-| **Status** | Building, learning & creating |
-| **Current Focus** | Full Stack Development & DSA |
-| **Exploring** | Artificial Intelligence & Machine Learning |
-| **Career Goal** | Software Development Engineer |
+| 🟢 **Status** | Building, learning & creating |
+| 🔭 **Current Focus** | Full Stack Development & DSA |
+| 🤖 **Exploring** | Artificial Intelligence & Machine Learning |
+| 🎯 **Career Goal** | Software Development Engineer |
 
 <!-- DASHBOARD_END -->
 
