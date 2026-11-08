@@ -13,6 +13,19 @@
 <p align="center">
   🌱 Currently learning <strong>DSA, Full Stack Development & AI</strong>
 </p>
+
+---
+
+<h3 align="center">✨ Explore My Developer Space</h3>
+
+<p align="center">
+  <a href="#-project-vault">🚀 Projects</a> &nbsp;•&nbsp;
+  <a href="#-my-developer-journey">🗺️ Journey</a> &nbsp;•&nbsp;
+  <a href="#-portfolio">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me">📫 Connect</a>
+</p>
+
+---
 <!--
 **Riddhi-Khandelwal01/Riddhi-Khandelwal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
