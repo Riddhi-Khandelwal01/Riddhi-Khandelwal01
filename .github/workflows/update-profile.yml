@@ -31,16 +31,16 @@ jobs:
 
           dashboard = f"""<!-- DASHBOARD_START -->
 
-## 💻 Developer Dashboard
+          ## 💻 Developer Dashboard
 
-| 🔹 | Current Status |
-|---|---|
-| 🟢 **Status** | {data['status']} |
-| 🔭 **Current Focus** | {data['focus']} |
-| 🤖 **Exploring** | {data['exploring']} |
-| 🎯 **Career Goal** | {data['goal']} |
+          | 🔹 | Current Status |
+          |---|---|
+          | 🟢 **Status** | {data['status']} |
+          | 🔭 **Current Focus** | {data['focus']} |
+          | 🤖 **Exploring** | {data['exploring']} |
+          | 🎯 **Career Goal** | {data['goal']} |
 
-<!-- DASHBOARD_END -->"""
+          <!-- DASHBOARD_END -->"""
 
           updated_readme = re.sub(
               r"<!-- DASHBOARD_START -->.*?<!-- DASHBOARD_END -->",
