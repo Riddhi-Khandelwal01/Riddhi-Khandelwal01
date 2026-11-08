@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently learning <strong>DSA, Full Stack Development & AI</strong>
+   Currently learning <strong>DSA, Full Stack Development & AI</strong>
 </p>
 
 ---
@@ -19,13 +19,25 @@
 <h3 align="center">✨ Explore My Developer Space</h3>
 
 <p align="center">
-  <a href="#-project-vault">🚀 Projects</a> &nbsp;•&nbsp;
-  <a href="#-my-developer-journey">🗺️ Journey</a> &nbsp;•&nbsp;
-  <a href="#-portfolio">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="#-connect-with-me">📫 Connect</a>
+  <a href="#-project-vault">Projects</a> &nbsp;•&nbsp;
+  <a href="#-my-developer-journey">Journey</a> &nbsp;•&nbsp;
+  <a href="#-portfolio">Portfolio</a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
+
+## Developer Dashboard
+
+| Themes | Current Status |
+|---|---|
+| **Status** | Building, learning & creating |
+| **Current Focus** | Full Stack Development & DSA |
+| **Exploring** | Artificial Intelligence & Machine Learning |
+| **Career Goal** | Software Development Engineer |
+
+> *I believe the best way to learn is by building, experimenting, and continuously improving.*
+> 
 <!--
 **Riddhi-Khandelwal01/Riddhi-Khandelwal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
