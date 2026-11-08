@@ -1,0 +1,73 @@
+name: Update Profile Dashboard
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/profile.json"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README dashboard
+        run: |
+          python - <<'PYTHON'
+          import json
+          import re
+
+          # Read the profile data
+          with open("data/profile.json", "r") as file:
+              data = json.load(file)
+
+          # Read the README
+          with open("README.md", "r") as file:
+              readme = file.read()
+
+          # Create the updated dashboard
+          dashboard = f"""<!-- DASHBOARD_START -->
+
+          ## Developer Dashboard
+
+          | Theme | Current Status |
+          |---|---|
+          |  **Status** | {data['status']} |
+          | **Current Focus** | {data['focus']} |
+          | **Exploring** | {data['exploring']} |
+          | **Career Goal** | {data['goal']} |
+
+          <!-- DASHBOARD_END -->"""
+
+          # Replace the old dashboard
+          updated_readme = re.sub(
+              r"<!-- DASHBOARD_START -->.*?<!-- DASHBOARD_END -->",
+              dashboard,
+              readme,
+              flags=re.DOTALL
+          )
+
+          # Save the updated README
+          with open("README.md", "w") as file:
+              file.write(updated_readme)
+          PYTHON
+
+      - name: Commit updated README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m " Update developer dashboard"
+            git push
+          fi
