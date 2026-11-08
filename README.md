@@ -33,7 +33,7 @@
 
 | 🔹 | Current Status |
 |---|---|
-| 🟢 **Status** | Building, learning & creating |
+| 🟢 **Status** | Building, creating & growing 🚀 |
 | 🔭 **Current Focus** | Full Stack Development & DSA |
 | 🤖 **Exploring** | Artificial Intelligence & Machine Learning |
 | 🎯 **Career Goal** | Software Development Engineer |
