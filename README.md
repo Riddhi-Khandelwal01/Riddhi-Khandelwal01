@@ -27,14 +27,18 @@
 
 ---
 
+<!-- DASHBOARD_START -->
+
 ## Developer Dashboard
 
-| Themes | Current Status |
+| Theme | Current Status |
 |---|---|
 | **Status** | Building, learning & creating |
 | **Current Focus** | Full Stack Development & DSA |
 | **Exploring** | Artificial Intelligence & Machine Learning |
 | **Career Goal** | Software Development Engineer |
+
+<!-- DASHBOARD_END -->
 
 > *I believe the best way to learn is by building, experimenting, and continuously improving.*
 > 
