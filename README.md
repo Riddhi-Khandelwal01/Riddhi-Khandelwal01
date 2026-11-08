@@ -1,8 +1,9 @@
 <!-- ==================== HERO SECTION ==================== -->
-<h1 align="center">Hi, I'm Riddhi Khandelwal👋</h1>
+
+<h1 align="center">Hi, I'm Riddhi Khandelwal 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student • Aspiring Software Developer</b>
+  <strong>Computer Science Student • Aspiring Software Developer</strong>
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@
 </p>
 
 <p align="center">
-  Currently learning <b>DSA, Full Stack Development & AI</b>
+  🌱 Currently learning <strong>DSA, Full Stack Development & AI</strong>
 </p>
 <!--
 **Riddhi-Khandelwal01/Riddhi-Khandelwal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
