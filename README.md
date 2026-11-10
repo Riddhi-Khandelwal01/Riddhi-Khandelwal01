@@ -38,6 +38,11 @@
 | 🤖 **Exploring** | Artificial Intelligence & Machine Learning |
 | 🎯 **Career Goal** | Software Development Engineer |
 
+## 🗺️ My Developer Journey
+
+<p align="center">
+  <img src="assets/journey.svg" alt="My Developer Journey" width="900"/>
+</p>
 <!-- DASHBOARD_END -->
 
 > *I believe the best way to learn is by building, experimenting, and continuously improving.*
