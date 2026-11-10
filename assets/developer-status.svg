@@ -1,0 +1,62 @@
+<svg width="900" height="140" viewBox="0 0 900 140"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="140" rx="18" fill="#161B22"/>
+
+  <!-- Animated glow -->
+  <circle cx="90" cy="70" r="16" fill="#6A5ACD">
+    <animate
+      attributeName="r"
+      values="12;20;12"
+      dur="2s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="opacity"
+      values="0.6;1;0.6"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Status text -->
+  <text x="140" y="62"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        font-weight="bold"
+        fill="#F0F6FC">
+    Developer Mode: ON
+  </text>
+
+  <text x="140" y="95"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        fill="#8B949E">
+    Learning • Building • Exploring • Growing
+  </text>
+
+  <!-- Animated dots -->
+  <circle cx="780" cy="70" r="6" fill="#6A5ACD">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="1.5s"
+             begin="0s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="810" cy="70" r="6" fill="#6A5ACD">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="1.5s"
+             begin="0.3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="840" cy="70" r="6" fill="#6A5ACD">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="1.5s"
+             begin="0.6s"
+             repeatCount="indefinite"/>
+  </circle>
+
+</svg>
