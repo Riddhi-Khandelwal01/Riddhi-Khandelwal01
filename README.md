@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/developer-status.svg" alt="Developer status" width="900"/>
+</p>
+
+<p align="center">
    Currently learning <strong>DSA, Full Stack Development & AI</strong>
 </p>
 
