@@ -1,0 +1,90 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Background -->
+  <rect width="900" height="260" rx="20" fill="#161B22"/>
+
+  <!-- Title -->
+  <text x="450" y="50"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="26"
+        font-weight="bold"
+        fill="#F0F6FC">
+    My Developer Journey
+  </text>
+
+  <!-- Connecting line -->
+  <line x1="130" y1="135" x2="770" y2="135"
+        stroke="#6A5ACD"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <!-- Milestone 1 -->
+  <circle cx="170" cy="135" r="28" fill="#6A5ACD"/>
+  <text x="170" y="143"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        fill="white">1</text>
+
+  <text x="170" y="195"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="bold"
+        fill="#F0F6FC">
+    Learn
+  </text>
+
+  <!-- Milestone 2 -->
+  <circle cx="360" cy="135" r="28" fill="#6A5ACD"/>
+  <text x="360" y="143"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        fill="white">2</text>
+
+  <text x="360" y="195"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="bold"
+        fill="#F0F6FC">
+    Build
+  </text>
+
+  <!-- Milestone 3 -->
+  <circle cx="550" cy="135" r="28" fill="#6A5ACD"/>
+  <text x="550" y="143"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        fill="white">3</text>
+
+  <text x="550" y="195"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="bold"
+        fill="#F0F6FC">
+    Explore
+  </text>
+
+  <!-- Milestone 4 -->
+  <circle cx="740" cy="135" r="28" fill="#6A5ACD"/>
+  <text x="740" y="143"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        fill="white">4</text>
+
+  <text x="740" y="195"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="bold"
+        fill="#F0F6FC">
+    Grow
+  </text>
+
+</svg>
