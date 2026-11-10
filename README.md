@@ -33,16 +33,37 @@
 
 <!-- DASHBOARD_START -->
 
-## 💻 Developer Dashboard
+<!-- DASHBOARD_START -->
 
-| 🔹 | Current Status |
-|---|---|
-| 🟢 **Status** | Building, creating & growing 🚀 |
-| 🔭 **Current Focus** | Full Stack Development & DSA |
-| 🤖 **Exploring** | Artificial Intelligence & Machine Learning |
-| 🎯 **Career Goal** | Software Development Engineer |
+<!-- DASHBOARD_START -->
 
-## 🗺️ My Developer Journey
+<h2 align="center"> Developer Dashboard</h2>
+
+<table align="center">
+  <tr>
+    <th></th>
+    <th>Current Status</th>
+  </tr>
+  <tr>
+    <td> <strong>Status</strong></td>
+    <td>Building, creating & growing 🚀</td>
+  </tr>
+  <tr>
+    <td> <strong>Current Focus</strong></td>
+    <td>Full Stack Development & DSA</td>
+  </tr>
+  <tr>
+    <td> <strong>Exploring</strong></td>
+    <td>Artificial Intelligence & Machine Learning</td>
+  </tr>
+  <tr>
+    <td> <strong>Career Goal</strong></td>
+    <td>Software Development Engineer</td>
+  </tr>
+</table>
+
+<!-- DASHBOARD_END -->
+##  My Developer Journey
 
 <p align="center">
   <img src="assets/journey.svg" alt="My Developer Journey" width="900"/>
